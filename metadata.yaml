@@ -1,0 +1,36 @@
+_repo: Die-Weiber-am-Brunnen_59870
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Klaiber, Pauline
+    alias: Klaiber-Gottschau, Pauline
+    birthdate: 1855
+    deathdate: 1944
+    gutenberg_agent_id: '35014'
+    url: http://www.gutenberg.org/2009/agents/35014
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    - Thode, Knut
+    - Pedersen, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2019-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59870'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Die Weiber am Brunnen
+url: http://www.gutenberg.org/ebooks/59870
